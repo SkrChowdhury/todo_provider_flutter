@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//import dart:collection for UnmodifiableListView class
 import 'dart:collection';
 import '../models/todo_model.dart';
 
