@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
           _showAddTextDialog();
         }),
         child: const Icon(Icons.add),
-        tooltip: "Add a todo",
+        tooltip: "Add a Todo",
       ),
     );
   }
