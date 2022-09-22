@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
           context: context,
           builder: (context) {
             return AlertDialog(
-              title: const Text("Add a new Task"),
+              title: const Text("Add a New Task"),
               content: TextField(
                 autofocus: true,
                 controller: _textFieldController,
